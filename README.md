@@ -6,6 +6,7 @@ Problem solving and Logical thinking
 ## Array
 |  |
 | ------- |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Revathy333/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3311-ant-on-the-boundary](https://github.com/Revathy333/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
 |  |
@@ -15,4 +16,8 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/Revathy333/Leetcode/tree/master/3311-ant-on-the-boundary) |
+## Math
+|  |
+| ------- |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Revathy333/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 <!---LeetCode Topics End-->
