@@ -6,6 +6,7 @@ Problem solving and Logical thinking
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Revathy333/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Revathy333/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0189-rotate-array](https://github.com/Revathy333/Leetcode/tree/master/0189-rotate-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Revathy333/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -55,4 +56,8 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Revathy333/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Revathy333/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
