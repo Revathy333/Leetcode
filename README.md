@@ -34,6 +34,7 @@ Problem solving and Logical thinking
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/Revathy333/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Revathy333/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Revathy333/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -68,13 +69,19 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Revathy333/Leetcode/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Revathy333/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Revathy333/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
