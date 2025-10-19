@@ -9,6 +9,7 @@ Problem solving and Logical thinking
 | [0001-two-sum](https://github.com/Revathy333/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Revathy333/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0189-rotate-array](https://github.com/Revathy333/Leetcode/tree/master/0189-rotate-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Revathy333/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3311-ant-on-the-boundary](https://github.com/Revathy333/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
@@ -50,6 +51,7 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Revathy333/Leetcode/tree/master/0189-rotate-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,4 +64,8 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Revathy333/Leetcode/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
