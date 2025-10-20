@@ -12,6 +12,7 @@ Problem solving and Logical thinking
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Revathy333/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Revathy333/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2634-minimum-common-value](https://github.com/Revathy333/Leetcode/tree/master/2634-minimum-common-value) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Revathy333/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3227-find-missing-and-repeated-values](https://github.com/Revathy333/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3311-ant-on-the-boundary](https://github.com/Revathy333/Leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -59,10 +60,12 @@ Problem solving and Logical thinking
 | ------- |
 | [0189-rotate-array](https://github.com/Revathy333/Leetcode/tree/master/0189-rotate-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2634-minimum-common-value](https://github.com/Revathy333/Leetcode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Revathy333/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2634-minimum-common-value](https://github.com/Revathy333/Leetcode/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +75,7 @@ Problem solving and Logical thinking
 | ------- |
 | [0001-two-sum](https://github.com/Revathy333/Leetcode/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
+| [2634-minimum-common-value](https://github.com/Revathy333/Leetcode/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/Revathy333/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
