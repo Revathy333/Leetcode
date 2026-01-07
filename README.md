@@ -22,6 +22,7 @@ Problem solving and Logical thinking
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Revathy333/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Revathy333/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [3311-ant-on-the-boundary](https://github.com/Revathy333/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Prefix Sum
@@ -32,6 +33,7 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Revathy333/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Revathy333/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Revathy333/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Revathy333/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Revathy333/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -57,6 +59,7 @@ Problem solving and Logical thinking
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Revathy333/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Revathy333/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Revathy333/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Two Pointers
