@@ -42,6 +42,7 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Revathy333/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/Revathy333/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/Revathy333/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Revathy333/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -82,6 +83,7 @@ Problem solving and Logical thinking
 | ------- |
 | [0001-two-sum](https://github.com/Revathy333/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Revathy333/Leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Revathy333/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
 | [2634-minimum-common-value](https://github.com/Revathy333/Leetcode/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/Revathy333/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -111,4 +113,12 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Revathy333/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Revathy333/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Revathy333/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
