@@ -3,9 +3,9 @@ class Solution(object):
         dict1 = {}
         for i in s:
             dict1[i] = dict1.get(i, 0) + 1
-        for ch in range(len(s)):
-            if dict1[s[ch]] == 1:
-                return ch
+        for ch in s:
+            if dict1[ch] == 1:
+                return s.index(ch)
         return -1        
 
 
