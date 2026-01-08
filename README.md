@@ -15,6 +15,7 @@ Problem solving and Logical thinking
 | [0217-contains-duplicate](https://github.com/Revathy333/Leetcode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Revathy333/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Revathy333/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Revathy333/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2634-minimum-common-value](https://github.com/Revathy333/Leetcode/tree/master/2634-minimum-common-value) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Revathy333/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -52,6 +53,7 @@ Problem solving and Logical thinking
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Revathy333/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Revathy333/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Revathy333/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Revathy333/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Revathy333/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Stack
 |  |
