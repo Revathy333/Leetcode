@@ -24,6 +24,7 @@ Problem solving and Logical thinking
 | [2942-find-words-containing-character](https://github.com/Revathy333/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Revathy333/Leetcode/tree/master/2974-minimum-number-game) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Revathy333/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3024-type-of-triangle](https://github.com/Revathy333/Leetcode/tree/master/3024-type-of-triangle) |
 | [3227-find-missing-and-repeated-values](https://github.com/Revathy333/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3311-ant-on-the-boundary](https://github.com/Revathy333/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Revathy333/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -48,6 +49,7 @@ Problem solving and Logical thinking
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Revathy333/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Revathy333/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Revathy333/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3024-type-of-triangle](https://github.com/Revathy333/Leetcode/tree/master/3024-type-of-triangle) |
 | [3227-find-missing-and-repeated-values](https://github.com/Revathy333/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Revathy333/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
@@ -118,6 +120,7 @@ Problem solving and Logical thinking
 | [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/Revathy333/Leetcode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/Revathy333/Leetcode/tree/master/3024-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
