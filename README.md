@@ -39,6 +39,7 @@ Problem solving and Logical thinking
 | [0258-add-digits](https://github.com/Revathy333/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Revathy333/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Revathy333/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Revathy333/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Revathy333/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Revathy333/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Revathy333/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
