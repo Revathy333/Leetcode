@@ -1,12 +1,8 @@
 class Solution:
     def differenceOfSum(self, nums: List[int]) -> int:
-        single = list(map(int, "".join(map(str, nums))))
-        sum1 = 0 
-        sum2 = 0 
-        for n1 in nums:
-            sum1+=n1
-        for n2 in single:
-            sum2+=n2
-        return abs(sum1 - sum2)         
+        sum1 = sum(nums)
+        sum2 = sum(int(r) for d in nums for r in str(d))    
+        return abs(sum2-sum1)
+          
 
       
