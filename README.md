@@ -58,6 +58,7 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Revathy333/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Revathy333/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Revathy333/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Revathy333/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
@@ -88,6 +89,7 @@ Problem solving and Logical thinking
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Revathy333/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Revathy333/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Revathy333/Leetcode/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
