@@ -18,6 +18,7 @@ Problem solving and Logical thinking
 | [1816-truncate-sentence](https://github.com/Revathy333/Leetcode/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Revathy333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Revathy333/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Revathy333/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Revathy333/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Revathy333/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2634-minimum-common-value](https://github.com/Revathy333/Leetcode/tree/master/2634-minimum-common-value) |
@@ -34,6 +35,7 @@ Problem solving and Logical thinking
 | ------- |
 | [0258-add-digits](https://github.com/Revathy333/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Revathy333/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Revathy333/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/Revathy333/Leetcode/tree/master/2974-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Revathy333/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Prefix Sum
@@ -103,6 +105,7 @@ Problem solving and Logical thinking
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Revathy333/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Revathy333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Revathy333/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2634-minimum-common-value](https://github.com/Revathy333/Leetcode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
