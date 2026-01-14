@@ -30,6 +30,7 @@ Problem solving and Logical thinking
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Revathy333/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3024-type-of-triangle](https://github.com/Revathy333/Leetcode/tree/master/3024-type-of-triangle) |
 | [3227-find-missing-and-repeated-values](https://github.com/Revathy333/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Revathy333/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3311-ant-on-the-boundary](https://github.com/Revathy333/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Revathy333/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
@@ -58,6 +59,7 @@ Problem solving and Logical thinking
 | [3024-type-of-triangle](https://github.com/Revathy333/Leetcode/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/Revathy333/Leetcode/tree/master/3099-harshad-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Revathy333/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Revathy333/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Revathy333/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Revathy333/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
