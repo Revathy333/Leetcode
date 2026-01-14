@@ -15,6 +15,7 @@ Problem solving and Logical thinking
 | [0189-rotate-array](https://github.com/Revathy333/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Revathy333/Leetcode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1550-three-consecutive-odds](https://github.com/Revathy333/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Revathy333/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Revathy333/Leetcode/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Revathy333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
