@@ -54,6 +54,7 @@ Problem solving and Logical thinking
 | [0189-rotate-array](https://github.com/Revathy333/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Revathy333/Leetcode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Revathy333/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/Revathy333/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2083-three-divisors](https://github.com/Revathy333/Leetcode/tree/master/2083-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Revathy333/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2507-number-of-common-factors](https://github.com/Revathy333/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -164,6 +165,7 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/Revathy333/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Database
 |  |
 | ------- |
