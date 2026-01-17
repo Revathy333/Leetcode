@@ -79,6 +79,7 @@ Problem solving and Logical thinking
 | [0344-reverse-string](https://github.com/Revathy333/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Revathy333/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Revathy333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Revathy333/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Revathy333/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Revathy333/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -143,6 +144,7 @@ Problem solving and Logical thinking
 | [0242-valid-anagram](https://github.com/Revathy333/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Revathy333/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Revathy333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Revathy333/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Revathy333/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2634-minimum-common-value](https://github.com/Revathy333/Leetcode/tree/master/2634-minimum-common-value) |
@@ -155,6 +157,7 @@ Problem solving and Logical thinking
 | [0217-contains-duplicate](https://github.com/Revathy333/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Revathy333/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Revathy333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/Revathy333/Leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Revathy333/Leetcode/tree/master/3024-type-of-triangle) |
@@ -190,8 +193,14 @@ Problem solving and Logical thinking
 | ------- |
 | [0169-majority-element](https://github.com/Revathy333/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Revathy333/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Revathy333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Revathy333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2974-minimum-number-game](https://github.com/Revathy333/Leetcode/tree/master/2974-minimum-number-game) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Revathy333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
