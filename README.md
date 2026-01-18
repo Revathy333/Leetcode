@@ -18,6 +18,7 @@ Problem solving and Logical thinking
 | [0283-move-zeroes](https://github.com/Revathy333/Leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Revathy333/Leetcode/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1528-shuffle-string](https://github.com/Revathy333/Leetcode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Revathy333/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Revathy333/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Revathy333/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -87,6 +88,7 @@ Problem solving and Logical thinking
 | [0557-reverse-words-in-a-string-iii](https://github.com/Revathy333/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Revathy333/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Revathy333/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1528-shuffle-string](https://github.com/Revathy333/Leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Revathy333/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Revathy333/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Revathy333/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
