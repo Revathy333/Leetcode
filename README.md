@@ -81,6 +81,7 @@ Problem solving and Logical thinking
 | [0151-reverse-words-in-a-string](https://github.com/Revathy333/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Revathy333/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Revathy333/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Revathy333/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Revathy333/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Revathy333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -150,6 +151,7 @@ Problem solving and Logical thinking
 | [0169-majority-element](https://github.com/Revathy333/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Revathy333/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Revathy333/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Revathy333/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Revathy333/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Revathy333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -202,6 +204,7 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Revathy333/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Revathy333/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Revathy333/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Revathy333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
