@@ -91,6 +91,7 @@ Problem solving and Logical thinking
 | [0557-reverse-words-in-a-string-iii](https://github.com/Revathy333/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Revathy333/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Revathy333/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Revathy333/Leetcode/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Revathy333/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1528-shuffle-string](https://github.com/Revathy333/Leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Revathy333/Leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -225,4 +226,8 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Revathy333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Revathy333/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
