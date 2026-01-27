@@ -27,6 +27,7 @@ Problem solving and Logical thinking
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Revathy333/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Revathy333/Leetcode/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Revathy333/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Revathy333/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Revathy333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Revathy333/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Revathy333/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -66,6 +67,7 @@ Problem solving and Logical thinking
 | [0412-fizz-buzz](https://github.com/Revathy333/Leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Revathy333/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Revathy333/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Revathy333/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/Revathy333/Leetcode/tree/master/2083-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Revathy333/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Revathy333/Leetcode/tree/master/2235-add-two-integers) |
@@ -135,6 +137,7 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Revathy333/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Revathy333/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/Revathy333/Leetcode/tree/master/2083-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Revathy333/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Revathy333/Leetcode/tree/master/2427-number-of-common-factors) |
