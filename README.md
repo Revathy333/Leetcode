@@ -66,6 +66,7 @@ Problem solving and Logical thinking
 | [0066-plus-one](https://github.com/Revathy333/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Revathy333/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Revathy333/Leetcode/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/Revathy333/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Revathy333/Leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Revathy333/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Revathy333/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -165,6 +166,7 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Revathy333/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0367-valid-perfect-square](https://github.com/Revathy333/Leetcode/tree/master/0367-valid-perfect-square) |
 | [2634-minimum-common-value](https://github.com/Revathy333/Leetcode/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
