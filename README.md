@@ -52,6 +52,7 @@ Problem solving and Logical thinking
 | [0682-baseball-game](https://github.com/Revathy333/Leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Revathy333/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Revathy333/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Revathy333/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/Revathy333/Leetcode/tree/master/2974-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Revathy333/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Prefix Sum
@@ -70,6 +71,7 @@ Problem solving and Logical thinking
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Revathy333/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/Revathy333/Leetcode/tree/master/2083-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Revathy333/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Revathy333/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Revathy333/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Revathy333/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Revathy333/Leetcode/tree/master/2427-number-of-common-factors) |
