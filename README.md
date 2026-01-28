@@ -62,6 +62,7 @@ Problem solving and Logical thinking
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Revathy333/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Revathy333/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Revathy333/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Revathy333/Leetcode/tree/master/0258-add-digits) |
