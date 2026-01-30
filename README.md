@@ -18,6 +18,7 @@ Problem solving and Logical thinking
 | [0217-contains-duplicate](https://github.com/Revathy333/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Revathy333/Leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Revathy333/Leetcode/tree/master/0682-baseball-game) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Revathy333/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/Revathy333/Leetcode/tree/master/0819-most-common-word) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-shuffle-string](https://github.com/Revathy333/Leetcode/tree/master/1528-shuffle-string) |
@@ -169,6 +170,7 @@ Problem solving and Logical thinking
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Revathy333/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/Revathy333/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Revathy333/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2634-minimum-common-value](https://github.com/Revathy333/Leetcode/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
