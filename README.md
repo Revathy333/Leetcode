@@ -36,6 +36,7 @@ Problem solving and Logical thinking
 | [2540-minimum-common-value](https://github.com/Revathy333/Leetcode/tree/master/2540-minimum-common-value) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Revathy333/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2634-minimum-common-value](https://github.com/Revathy333/Leetcode/tree/master/2634-minimum-common-value) |
+| [2706-buy-two-chocolates](https://github.com/Revathy333/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Revathy333/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Revathy333/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Revathy333/Leetcode/tree/master/2974-minimum-number-game) |
@@ -212,6 +213,7 @@ Problem solving and Logical thinking
 | [0451-sort-characters-by-frequency](https://github.com/Revathy333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/Revathy333/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [2706-buy-two-chocolates](https://github.com/Revathy333/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/Revathy333/Leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Revathy333/Leetcode/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/Revathy333/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -265,4 +267,8 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Revathy333/Leetcode/tree/master/0796-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/Revathy333/Leetcode/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
