@@ -69,6 +69,7 @@ Problem solving and Logical thinking
 | [0009-palindrome-number](https://github.com/Revathy333/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Revathy333/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Revathy333/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Revathy333/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Revathy333/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Revathy333/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Revathy333/Leetcode/tree/master/0412-fizz-buzz) |
@@ -226,6 +227,7 @@ Problem solving and Logical thinking
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Revathy333/Leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/Revathy333/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Revathy333/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -273,4 +275,8 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/Revathy333/Leetcode/tree/master/2706-buy-two-chocolates) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Revathy333/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
