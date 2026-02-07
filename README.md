@@ -21,6 +21,7 @@ Problem solving and Logical thinking
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Revathy333/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/Revathy333/Leetcode/tree/master/0819-most-common-word) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Revathy333/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1528-shuffle-string](https://github.com/Revathy333/Leetcode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Revathy333/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Revathy333/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -76,6 +77,7 @@ Problem solving and Logical thinking
 | [0412-fizz-buzz](https://github.com/Revathy333/Leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Revathy333/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Revathy333/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Revathy333/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Revathy333/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Revathy333/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/Revathy333/Leetcode/tree/master/2083-three-divisors) |
