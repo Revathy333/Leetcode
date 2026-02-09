@@ -133,6 +133,7 @@ Problem solving and Logical thinking
 | [2000-reverse-prefix-of-word](https://github.com/Revathy333/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Revathy333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Revathy333/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2129-capitalize-the-title](https://github.com/Revathy333/Leetcode/tree/master/2129-capitalize-the-title) |
 | [2325-decode-the-message](https://github.com/Revathy333/Leetcode/tree/master/2325-decode-the-message) |
 | [2942-find-words-containing-character](https://github.com/Revathy333/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Revathy333/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
