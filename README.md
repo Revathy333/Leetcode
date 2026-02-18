@@ -60,6 +60,7 @@ Problem solving and Logical thinking
 | [2180-count-integers-with-even-digit-sum](https://github.com/Revathy333/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/Revathy333/Leetcode/tree/master/2974-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Revathy333/Leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3498-reverse-degree-of-a-string](https://github.com/Revathy333/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Problem solving and Logical thinking
 | [2325-decode-the-message](https://github.com/Revathy333/Leetcode/tree/master/2325-decode-the-message) |
 | [2942-find-words-containing-character](https://github.com/Revathy333/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Revathy333/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3498-reverse-degree-of-a-string](https://github.com/Revathy333/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
