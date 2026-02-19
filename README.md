@@ -29,6 +29,7 @@ Problem solving and Logical thinking
 | [1684-count-the-number-of-consistent-strings](https://github.com/Revathy333/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Revathy333/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Revathy333/Leetcode/tree/master/1816-truncate-sentence) |
+| [1920-build-array-from-permutation](https://github.com/Revathy333/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Revathy333/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Revathy333/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Revathy333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -55,6 +56,7 @@ Problem solving and Logical thinking
 | [0412-fizz-buzz](https://github.com/Revathy333/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Revathy333/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Revathy333/Leetcode/tree/master/0682-baseball-game) |
+| [1920-build-array-from-permutation](https://github.com/Revathy333/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Revathy333/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Revathy333/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Revathy333/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
