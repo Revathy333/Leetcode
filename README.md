@@ -252,6 +252,7 @@ Problem solving and Logical thinking
 | [0175-combine-two-tables](https://github.com/Revathy333/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Revathy333/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Revathy333/Leetcode/tree/master/0183-customers-who-never-order) |
+| [0596-classes-with-at-least-5-students](https://github.com/Revathy333/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/Revathy333/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Revathy333/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 ## Trie
