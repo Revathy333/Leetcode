@@ -22,6 +22,7 @@ Problem solving and Logical thinking
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Revathy333/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/Revathy333/Leetcode/tree/master/0819-most-common-word) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Revathy333/Leetcode/tree/master/1051-height-checker) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Revathy333/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1528-shuffle-string](https://github.com/Revathy333/Leetcode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Revathy333/Leetcode/tree/master/1550-three-consecutive-odds) |
@@ -231,6 +232,7 @@ Problem solving and Logical thinking
 | [0389-find-the-difference](https://github.com/Revathy333/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Revathy333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Revathy333/Leetcode/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/Revathy333/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2706-buy-two-chocolates](https://github.com/Revathy333/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/Revathy333/Leetcode/tree/master/2974-minimum-number-game) |
@@ -307,4 +309,8 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Revathy333/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Revathy333/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
