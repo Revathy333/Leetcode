@@ -129,6 +129,7 @@ Problem solving and Logical thinking
 | [1678-goal-parser-interpretation](https://github.com/Revathy333/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Revathy333/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Revathy333/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/Revathy333/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Revathy333/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Revathy333/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Revathy333/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -176,6 +177,7 @@ Problem solving and Logical thinking
 | [0557-reverse-words-in-a-string-iii](https://github.com/Revathy333/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Revathy333/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Revathy333/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Revathy333/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Revathy333/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Revathy333/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
