@@ -24,6 +24,7 @@ Problem solving and Logical thinking
 | [1019-squares-of-a-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Revathy333/Leetcode/tree/master/1051-height-checker) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Revathy333/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Revathy333/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1528-shuffle-string](https://github.com/Revathy333/Leetcode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Revathy333/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Revathy333/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -215,6 +216,7 @@ Problem solving and Logical thinking
 | [0771-jewels-and-stones](https://github.com/Revathy333/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Revathy333/Leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Revathy333/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Revathy333/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Revathy333/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Revathy333/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2325-decode-the-message](https://github.com/Revathy333/Leetcode/tree/master/2325-decode-the-message) |
@@ -282,6 +284,7 @@ Problem solving and Logical thinking
 | [0451-sort-characters-by-frequency](https://github.com/Revathy333/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/Revathy333/Leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Revathy333/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Revathy333/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Revathy333/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Heap (Priority Queue)
 |  |
