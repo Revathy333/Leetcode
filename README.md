@@ -262,6 +262,7 @@ Problem solving and Logical thinking
 | [0596-classes-with-at-least-5-students](https://github.com/Revathy333/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/Revathy333/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Revathy333/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1729-find-followers-count](https://github.com/Revathy333/Leetcode/tree/master/1729-find-followers-count) |
 ## Trie
 |  |
 | ------- |
