@@ -48,6 +48,7 @@ Problem solving and Logical thinking
 | [2974-minimum-number-game](https://github.com/Revathy333/Leetcode/tree/master/2974-minimum-number-game) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Revathy333/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3024-type-of-triangle](https://github.com/Revathy333/Leetcode/tree/master/3024-type-of-triangle) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Revathy333/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Revathy333/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Revathy333/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3311-ant-on-the-boundary](https://github.com/Revathy333/Leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -100,6 +101,7 @@ Problem solving and Logical thinking
 | [2769-find-the-maximum-achievable-number](https://github.com/Revathy333/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/Revathy333/Leetcode/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/Revathy333/Leetcode/tree/master/3099-harshad-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Revathy333/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Revathy333/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Revathy333/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Revathy333/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
