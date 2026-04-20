@@ -20,6 +20,7 @@ Problem solving and Logical thinking
 | [0217-contains-duplicate](https://github.com/Revathy333/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Revathy333/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Revathy333/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0605-can-place-flowers](https://github.com/Revathy333/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Revathy333/Leetcode/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Revathy333/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/Revathy333/Leetcode/tree/master/0819-most-common-word) |
@@ -313,6 +314,7 @@ Problem solving and Logical thinking
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Revathy333/Leetcode/tree/master/0605-can-place-flowers) |
 | [2706-buy-two-chocolates](https://github.com/Revathy333/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Recursion
 |  |
