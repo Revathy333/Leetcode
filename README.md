@@ -82,6 +82,7 @@ Problem solving and Logical thinking
 | [0007-reverse-integer](https://github.com/Revathy333/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Revathy333/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Revathy333/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Revathy333/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Revathy333/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Revathy333/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Revathy333/Leetcode/tree/master/0231-power-of-two) |
@@ -289,6 +290,7 @@ Problem solving and Logical thinking
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Revathy333/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Revathy333/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
 |  |
@@ -347,4 +349,8 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Revathy333/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Revathy333/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
