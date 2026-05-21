@@ -12,6 +12,7 @@ Problem solving and Logical thinking
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Revathy333/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Revathy333/Leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Revathy333/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Revathy333/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Revathy333/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -290,6 +291,7 @@ Problem solving and Logical thinking
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Revathy333/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Revathy333/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Revathy333/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
@@ -326,6 +328,7 @@ Problem solving and Logical thinking
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Revathy333/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Revathy333/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Revathy333/Leetcode/tree/master/0605-can-place-flowers) |
 | [2706-buy-two-chocolates](https://github.com/Revathy333/Leetcode/tree/master/2706-buy-two-chocolates) |
