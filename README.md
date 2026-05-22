@@ -15,6 +15,7 @@ Problem solving and Logical thinking
 | [0055-jump-game](https://github.com/Revathy333/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Revathy333/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Revathy333/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Revathy333/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Revathy333/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Revathy333/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Revathy333/Leetcode/tree/master/0169-majority-element) |
@@ -225,6 +226,7 @@ Problem solving and Logical thinking
 | [0003-longest-substring-without-repeating-characters](https://github.com/Revathy333/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Revathy333/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Revathy333/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Revathy333/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Revathy333/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Revathy333/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Revathy333/Leetcode/tree/master/0217-contains-duplicate) |
@@ -359,4 +361,8 @@ Problem solving and Logical thinking
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Revathy333/Leetcode/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Revathy333/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
