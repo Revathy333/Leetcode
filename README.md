@@ -122,6 +122,7 @@ Problem solving and Logical thinking
 | [0003-longest-substring-without-repeating-characters](https://github.com/Revathy333/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Revathy333/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Revathy333/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Revathy333/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Revathy333/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Revathy333/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Revathy333/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -162,6 +163,7 @@ Problem solving and Logical thinking
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Revathy333/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Revathy333/Leetcode/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Revathy333/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Revathy333/Leetcode/tree/master/2000-reverse-prefix-of-word) |
